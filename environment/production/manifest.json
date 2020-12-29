@@ -1,4 +1,10 @@
 {
+  "applications": {
+    "gecko": {
+      "id": "authsaz@gmail.com"
+    }
+  },
+
   "background": {
     "page": "background.html"
   },
@@ -6,27 +12,36 @@
   "browser_action": {
     "browser_style": false,
     "default_icon": {
-      "19": "icons/green_mark_19.png",
-      "38": "icons/green_mark_38.png"
+      "19": "icons/temp_regulr_icon.png",
+      "38": "icons/temp_regulr_icon.png"
     },
-    "default_title": "Swash"
+    "default_title": "Regulr"
   },
 
-  "description": "Swash is a Streamr Community Product that collects information about users browsing activities",
+  "description": "Regulr sample blurb",
 
   "icons": {
-    "48": "icons/green_mark_48.png",
-    "96": "icons/green_mark_96.png",
-	"128": "icons/green_mark_128.png"
+    "48": "icons/temp_regulr_icon.png",
+    "96": "icons/temp_regulr_icon.png",
+    "128": "icons/temp_regulr_icon.png"
   },
 
   "manifest_version": 2,
 
-  "name": "Swash",
+  "name": "Regulr",
 
-  "homepage_url": "https://swashapp.io/",
+  "homepage_url": "https://regulr.io/",
 
-  "permissions": ["clipboardRead","storage","bookmarks", "tabs", "webRequest", "<all_urls>", "webRequestBlocking", "downloads"],
+  "permissions": [
+    "clipboardRead",
+    "storage",
+    "bookmarks",
+    "tabs",
+    "webRequest",
+    "<all_urls>",
+    "webRequestBlocking",
+    "downloads"
+  ],
 
   "content_security_policy": "script-src 'self' https://www.youtube.com/ https://s.ytimg.com/; object-src 'self';",
 

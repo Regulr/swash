@@ -1,4 +1,10 @@
 {
+  "applications": {
+    "gecko": {
+      "id": "authsaz@gmail.com"
+    }
+  },
+
   "background": {
     "page": "background.html"
   },
@@ -12,7 +18,7 @@
     "default_title": "Regulr"
   },
 
-  "description": "We created Regulr to help businesses give you the experiences you've always wanted.",
+  "description": "Regulr sample blurb",
 
   "icons": {
     "48": "icons/temp_regulr_icon.png",
