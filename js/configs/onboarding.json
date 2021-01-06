@@ -25,7 +25,7 @@
       "OnBoardingResponsibility": {
         "version": 1,
         "visible": "all",
-        "next": "YourProfileWarning"
+        "next": "Join"
       },
       "YourProfileWarning": {
         "version": 1,

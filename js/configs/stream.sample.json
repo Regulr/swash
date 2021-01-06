@@ -1,26 +1,26 @@
 {
-	"Amazon":{
-		"streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-	},
-	"Facebook":{
-        "streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-	},
-	"Search":{
-        "streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-	},
-	"Surfing":{
-        "streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"		
-	},
-	"Twitter":{
-        "streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"		
-	},
-	"Youtube":{
-        "streamId": "aaaaaaaaaaaaaaaaaaaaaa",
-        "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"	
-	}	
+  "Amazon": {
+    "streamId": "0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Amazon",
+    "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Facebook": {
+    "streamId": "0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Facebook",
+    "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Search": {
+    "streamId": "0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Search",
+    "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Surfing": {
+    "streamId": "aaaa0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Surfing",
+    "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Twitter": {
+    "streamId": "0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Twitter",
+    "apiKey": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "Youtube": {
+    "streamId": "0x1977766fb0b465c9efdf56cb5a5658bcbe4ede3e/Youtube",
+    "apiKey": "AIzaSyBei6dxDg7eaV4NXHCWQhTEYx6xpi7HgYQ"
+  }
 }
