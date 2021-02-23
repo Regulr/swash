@@ -78,7 +78,13 @@ if wallet is not already in repo, go download it from Regulr's OCI
 ```
 Navigate to wallet folder and change sqlnet.ora's DIRECTORY=<path to the wallet>
 Change ojdbc.properties DIRECTORY$={<path to wallet>}
+
+Create the TNS_ADMIN environment variable and set it to the location of the
+credentials file by running line: export TNS_ADMIN=<path to wallet>
 ```
+
+Cd to the js folder and test that you are connected to the server by running:
+node oracleTest.js
 
 ### Swash development
 
