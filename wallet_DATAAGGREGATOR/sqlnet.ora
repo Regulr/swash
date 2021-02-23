@@ -1,2 +1,3 @@
-WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="?/network/admin")))
+WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY=/Users/seanyu/Desktop/swash/Wallet_dataaggregator)))
 SSL_SERVER_DN_MATCH=yes
+SQLNET.USE_HTTPS_PROXY=on

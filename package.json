@@ -1,0 +1,28 @@
+{
+  "name": "swash",
+  "version": "1.0.0",
+  "description": "Data aggregation browser ext and UI version 1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regulr/swash.git"
+  },
+  "author": "Sean Yu, Joey Figaro, Swash Open Source Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regulr/swash/issues"
+  },
+  "homepage": "https://github.com/Regulr/swash#readme",
+  "dependencies": {
+    "node-oracledb": "^1.0.2",
+    "oracledb": "^5.1.0"
+  },
+  "devDependencies": {}
+}
